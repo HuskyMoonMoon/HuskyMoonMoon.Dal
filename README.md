@@ -1,2 +1,2 @@
 # HuskyMoonMoon.Dal
-Repository &amp; UoW pattern base implementation for .Net framework
+DAL base implementation using Repository &amp; UoW patterns in .NET Framework
