@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEV48.Dal", "DEV48.Dal\DEV48.Dal.csproj", "{AAEBC50B-155F-4C28-95E9-6E66AF23D0F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuskyMoonMoon.Dal", "HuskyMoonMoon.Dal\HuskyMoonMoon.Dal.csproj", "{AAEBC50B-155F-4C28-95E9-6E66AF23D0F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
